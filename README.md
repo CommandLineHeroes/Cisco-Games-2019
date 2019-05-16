@@ -1,5 +1,5 @@
-# CLH Red Hat Summit Games 2019
-Links to all the games on the CLH Arcade machines at Red Hat Summit 2019
+# CLH Arcade Games 2019
+Links to all the games on the CLH Arcade machines at Cicso 2019.
 
 * [Command Line Heroes: Bash](https://www.redhat.com/en/command-line-heroes/bash/index.html)
 * [Pity About Earth](http://pae.fun)
