@@ -7,4 +7,3 @@ Links to all the games on the CLH Arcade machines at Cicso 2019.
 * [Zorbio](https://zorb.io)
 * [Nucular Briefcase](https://lanyard.itch.io/nuclear-briefcase)
 * [Ransom](http://jaredsprague.com/ransom)
-* [SquareOff](http://sqoff.com)
