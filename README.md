@@ -6,5 +6,3 @@ Links to all the games on the CLH Arcade machines at Cicso Live 2019.
 * [Pity About Earth](http://pae.fun)
 * [Flesh God](https://meditator.itch.io/fleshgod)
 * [Zorbio](https://zorb.io)
-* [Nucular Briefcase](https://lanyard.itch.io/nuclear-briefcase)
-* [Ransom](http://jaredsprague.com/ransom)
